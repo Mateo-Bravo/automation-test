@@ -24,4 +24,3 @@ on:
 
         - name: Build Spring Boot App
           run: gradle clean build
-
